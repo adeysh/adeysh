@@ -7,6 +7,7 @@
 </p>
 
 
+<h3 align="left">👨‍💻 About Me</h3>
 
 🚀 **Blockchain Developer | Web Developer | Machine Learning Enthusiast**  
 
@@ -17,12 +18,27 @@ I'm a **computer science student** passionate about **blockchain, cryptocurrency
 <!-- credits for the gif https://giphy.com/gifs/computer-working-cat-LHZyixOnHwDDy -->
 <img align="right" height="150" width="210" src="Working Chis Sweet Home GIF.gif">
 
+
+
 - 🔭 **I’m currently working on:** ML models
 - 🌱 **I’m currently learning:** data engineering
 - 👯 **I’m looking to collaborate on:** data science projects/competitions
 - 💬 **Ask me about:** data science, memes, kdramas, Bad Bunny
 - ⚡ **Hobbies:** books, internet, music, series, pet my cat
 - 😄 **Pronouns:** he/him
+---
+
+<h3 align="left">🛠️ Skills</h3>
+
+<p align="left">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black">
+  <img alt="SCSS" src="https://img.shields.io/badge/SCSS-%23CC6699.svg?style=flat&logo=sass&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white">
+  <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white">
+</p>
+
 
 ---
 
