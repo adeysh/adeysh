@@ -9,9 +9,7 @@
 
 <h3 align="left">👨‍💻 About Me</h3>
 
-🚀 **Blockchain Developer | Web Developer | Machine Learning Enthusiast**  
-
-I'm a **computer science student** passionate about **blockchain, cryptocurrency, and decentralized applications**. I love working on **real-world projects** that combine blockchain with **machine learning and web development**. Currently, I'm building **EtherArt**, an NFT marketplace with AI-generated NFTs.  
+I'm a web developer passionate about building modern, scalable, and user-friendly applications. My expertise lies in frontend and backend development, where I work with HTML, CSS, JavaScript, SCSS, Python, and Django to create dynamic and responsive web experiences.
 
  ---
 
