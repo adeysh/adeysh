@@ -26,4 +26,8 @@ I'm a **computer science student** passionate about **blockchain, cryptocurrency
 
 ---
 
+<div align="center">
+
 <a href="https://github.com/adeysh"><pre><img height="150px" src="https://github-readme-stats.vercel.app/api?username=adeysh&show_icons=true&theme=dark#gh-dark-mode-only&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" />    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=adeysh&show_icons=true&theme=dark#gh-dark-mode-only&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" /></pre></a>
+
+</div>
