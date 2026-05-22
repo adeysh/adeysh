@@ -9,4 +9,4 @@ What I'm up to 🧐:
 
 Connect with me:
 
-![adeshkatiya.dev@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeshkatiya.dev@gmail.com?subject=Hello%20Adesh)
